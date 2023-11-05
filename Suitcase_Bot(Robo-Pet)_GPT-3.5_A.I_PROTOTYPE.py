@@ -57,4 +57,3 @@ while True:
                 print("removed mp3")
         except:
             print("Error: Please make sure that you are speaking clearly")
-            break
